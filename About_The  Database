@@ -1,0 +1,15 @@
+About the Dataset:
+
+Database Download Link : https://www.kaggle.com/datasets/anthonytherrien/depression-dataset/code
+The dataset provided seems to contain information related to various personal and lifestyle factors of individuals, including:
+
+Age: The age of the individual.
+Marital Status: Indicates the marital status (e.g., Married, Single, Divorced, etc.).
+Education Level: The highest level of education achieved by the individual.
+Number of Children: Number of children the individual has.
+Smoking Status, Alcohol Consumption, Physical Activity Level, Dietary Habits: Lifestyle habits and behaviors.
+Employment Status and Income: The employment state and income levels.
+Sleep Patterns: Quality of sleep, ranging from poor to good.
+History of Mental Illness, Substance Abuse, Family History of Depression: Health-related information, including mental and physical health.
+Chronic Medical Conditions: Whether or not the individual has chronic conditions.
+This dataset may be useful for predicting factors related to mental health or well-being, specifically depression-related aspects.
